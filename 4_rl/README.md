@@ -17,8 +17,8 @@ You will find theoretical explanations in each chapter that will give you enough
   *  Value-based Reinforcement Learning (Q-Learning, Greedy Agent, Eps-Greedy Agent)
 
 * Part II: Policy Gradient Methods and Deep RL
-  *  Policy definition
-  *  Policy gradient algorithms (Softmax NN, REINFORCE, GPOMDP)
+  *  Policy definition (Softmax NN)
+  *  Policy gradient algorithms (REINFORCE, GPOMDP)
 
 * Part III: Reinforcement Learning with (Any-) Human Feedback
   *  Pre-trained Language Models
